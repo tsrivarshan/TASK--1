@@ -46,7 +46,7 @@
     <tr> 
      <th>ROLL NO</th> 
      <th>NAME</th> 
-     <th>MAIL ID</th> 
+     <th colspan="2">MAIL ID</th> 
     </tr> 
    </tbody> 
   </table> 
