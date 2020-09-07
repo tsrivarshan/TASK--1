@@ -42,11 +42,11 @@
      }
    </script> 
   <table border="1" align="center" id="mytable"> 
-   <tbody style="background:powderblue"> 
+   <tbody style="background:green"> 
     <tr> 
      <th>ROLL NO</th> 
      <th>NAME</th> 
-     <th colspan="2">MAIL ID</th> 
+     <th>MAIL ID</th> 
     </tr> 
    </tbody> 
   </table> 
