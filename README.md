@@ -74,7 +74,7 @@
    <p4>
      E-mail ID: 
     <br> 
-    <input type="text" id="E" name="mail" placeholder="Enter your mail id" size="25"> 
+    <input type="text" id="E" name="mail" placeholder="Enter your mail id" size="20"> 
    </p4> 
    <br> 
    <br> 
